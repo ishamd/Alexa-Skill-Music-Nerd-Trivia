@@ -8,15 +8,14 @@ This Alexa Custom Skill will put your knowledge to the test!
 
 Full Skill Description:
 -----------------------
-Listen to a 10 second audio clip of a popular song and see if you can guess the artist!
-Players can choose from four possible answers and Alexa will keep track of your score as you go!
-Audio samples represent popular songs from the last several decades!  
-Have fun!!
+Listen to a 10 second audio clip of a popular song and see if you can guess the artist.
+Players can choose from four possible answers and Alexa will keep track of your score as you go.
+Audio samples represent popular songs from the last several decades.
 
 Example Phrases:
 -----------------------
-"Alexa, play music nerd trivia."
-"Alexa, repeat question."
+"Alexa, play music nerd trivia."<br />
+"Alexa, repeat question."<br />
 "Alexa, help."
 
 Technologies Leveraged
