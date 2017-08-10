@@ -12,3 +12,4 @@ Technologies Leveraged
 * **AWS DynamoDB**
 * **AWS S3**
 * **NodeJS**
+![](https://s3.amazonaws.com/alexa-skill-pomodora/Screen+Shot+2017-08-10+at+4.12.53+PM.png)
