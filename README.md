@@ -1,4 +1,4 @@
-![] (https://s3.amazonaws.com/spotify-audio-files/large-icon.png)
+![](https://s3.amazonaws.com/spotify-audio-files/large-icon.png)
 # Alexa-Skill-Music-Nerd-Trivia
 
 Are you a music nerd? Can you quickly recognize a song and guess the artist?
