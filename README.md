@@ -1,5 +1,5 @@
-![](https://s3.amazonaws.com/spotify-audio-files/small-icon.png) 
-# Alexa-Skill-Music-Nerd-Trivia
+# Alexa-Skill-Music-Nerd-Trivia ![](https://s3.amazonaws.com/spotify-audio-files/small-icon.png) 
+
 
 
 Are you a music nerd? Can you quickly recognize a song and guess the artist?
