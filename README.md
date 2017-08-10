@@ -1,16 +1,17 @@
 # Alexa-Skill-Music-Nerd-Trivia
-![Settings Window] (https://s3.amazonaws.com/spotify-audio-files/small-image.jpeg)
+ ![] (./src/large-icon.png)
+ ![](https://s3.amazonaws.com/spotify-audio-files/small-image.jpeg)
 Are you a music nerd? Can you quickly recognize a song and guess the artist?
 This Alexa Custom Skill will put your knowledge to the test!
 
 Technologies Leveraged
 -----------------------
-⋅⋅* Alexa Skills Kit
-⋅⋅* AWS Skill Kit
-⋅⋅* AWS Lambda
-⋅⋅* AWS DynamoDB
-⋅⋅* AWS S3
-⋅⋅* NodeJS
+* **Alexa Skills Kit**
+* **AWS Skills Kit**
+* **AWS Lambda**
+* **AWS DynamoDB**
+* **AWS S3**
+* **NodeJS**
 
 After completing this tutorial, you will know how to:
 
